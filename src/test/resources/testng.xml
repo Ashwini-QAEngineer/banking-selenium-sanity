@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="banking-selenium-sanity Suite">
+  <test name="Tests">
+    <classes><class name="com.ashwini.banking.tests.SmokeTest"/></classes>
+  </test>
+</suite>
